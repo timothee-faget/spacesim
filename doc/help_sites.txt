@@ -1,0 +1,19 @@
+Mouvement des planetes:
+
+https://www.f-legrand.fr/sci/glossaire-definition/Gravitation-page-4.htmldoc/docimg/sciphys/meca/planetes/planetes.html
+https://www.f-legrand.fr/scidoc/docimg/numerique/bulirsch/bulirsch/bulirsch.html
+https://www.sfournier.fr/dir/28
+https://www.techno-science.net/glossaire-definition/Gravitation-page-4.html
+https://interstices.info/les-planetes-tournent-elles-rond/#:~:text=Comme%20dans%20le%20cas%20des,(t)%20est%20la%20vitesse.
+
+Graphismes:
+
+http://www.opengl-tutorial.org/fr/beginners-tutorials/tutorial-2-the-first-triangle/
+
+Code:
+
+https://openclassrooms.com/fr/courses/1894236-apprenez-a-programmer-en-c
+
+Autre:
+
+https://fr.wikipedia.org/wiki/Fonction_de_hachage
